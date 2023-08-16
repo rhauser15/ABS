@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "3287d3cb-2557-4af8-ba71-0e8a1d167d78",
-		"name": "Cat Info API Copy 1",
+		"name": "Cat Info API Copy 2",
 		"description": "Contact Support:\n Email: contact@catfact.ninja",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
@@ -294,7 +294,7 @@
 	],
 	"variable": [
 		{
-			"id": "ec8b42d0-03b3-47fe-8f4d-78cfa688ce87",
+			"id": "1d27e80d-b602-488e-921c-1f16e50c469d",
 			"key": "baseUrl",
 			"value": "https://af0eda6e-cb76-4f14-b52f-8a0f9c6f26c4.mock.pstmn.io"
 		}
